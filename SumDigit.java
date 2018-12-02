@@ -42,7 +42,7 @@ public class SumDigit
       
       // Output to console the original integer and the sum of the digits
       // more then 4 digits input takes only the last four digits
-      System.out.println (" SumDigit Program  "  );
+      System.out.println (" SumDigit Program for SWE6623 "  );
       System.out.println ("The 4 digit Integer input is: " + i1 + i2 + i3 + i4); 
       System.out.println (" The sum of the digits is:  " + sum );
    }
